@@ -3,4 +3,4 @@
 Aprendendo um pouco sobre:
 
 - Tipos de funções
--Funções Aritméticas
+- Funções Aritméticas
