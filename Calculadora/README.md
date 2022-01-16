@@ -2,7 +2,8 @@
 
 Aprendendo um pouco sobre:
 
-- Tipos de funções;
+- Tipos de Funções;
 - Funções Aritméticas;
 - Caixas de Diálogo (Alert, Confirm, Prompt);
-- Estruturas Condicionais(If...else, switch)
+- Estruturas Condicionais(If...else, switch);
+- Operadores Lógicos (AND[&&], OR[||], NOT[!])
