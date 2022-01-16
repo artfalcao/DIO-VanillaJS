@@ -3,7 +3,7 @@
 Atividade prática proposta pelo curso "Variáveis e Tipos" do Basecamp de Javascript da Digital Innovation One. Aprendi um pouco sobre métodos relacionados a strings, arrays(ou vetores) e objetos. Alguns deles são:
 
 - **split**() [divide uma String em uma lista ordenada de substrings, coloca essas substrings em um array e retorna o array];
-- 
+
 - **concat**() [combina o texto de duas ou mais strings e retorna uma nova string];
 
 - **includes**() [determina se um conjunto de caracteres pode ser encontrado dentro de outra string, retornando true ou false];
