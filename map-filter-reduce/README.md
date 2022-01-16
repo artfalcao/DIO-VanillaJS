@@ -6,7 +6,7 @@ Nesta atividade aprendi um pouco sobre os métodos de manipulação de arrays:
 
 - **filter**() [cria um novo array com todos os elementos que passaram no teste implementado pela função fornecida];
 
--**reduce**() [executa uma função reducer (fornecida por você) para cada elemento do array, resultando num único valor de retorno];
+- **reduce**() [executa uma função reducer (fornecida por você) para cada elemento do array, resultando num único valor de retorno];
 
 A função reducer recebe quatro parâmetros:
 
